@@ -1,0 +1,16 @@
+canvas{
+    border: 1px solid #000;
+    display: block;
+    margin: 0 auto;
+
+}
+body{
+background:#4aaf53;
+}
+
+img{
+    height: 10vh;
+    margin: 10px auto;
+    display: block;
+    user-select: none;
+}
